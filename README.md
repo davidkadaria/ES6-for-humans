@@ -1,15 +1,15 @@
 # ES6 for Humans
+# ES6 ადამიანურ ენაზე
 
 <br>
 
-:loudspeaker: The complete guide is now available on [Amazon](https://www.amazon.com/ES6-Humans-Latest-Standard-JavaScript/dp/1484226224)
-
-[![ES6 for humans - Apress book](book-cover.jpg)](https://www.amazon.com/ES6-Humans-Latest-Standard-JavaScript/dp/1484226224)
-
 ### Table of Contents
+### სარჩევი
 
 * [`let`, `const` and block scoping](#1-let-const-and-block-scoping)
+* [`let`, `const` და ბლოკის ფარგლებში მოქცევა](#1-let-const-and-block-scoping)
 * [Arrow Functions](#2-arrow-functions)
+* [ისრისებური ფუნქციები](#2-arrow-functions)
 * [Default Function Parameters](#3-default-function-parameters)
 * [Spread/Rest Operator](#4-spread--rest-operator)
 * [Object Literal Extensions](#5-object-literal-extensions)
@@ -29,14 +29,23 @@
 <br>
 
 ### Languages
+### თარგმანები
 
+* [ორიგინალი ინგლისური ვერსია (მადლობა metagrover)](https://github.com/metagrover/ES6-for-humans)
 * [Chinese Version (Thanks to barretlee)](http://www.barretlee.com/blog/2016/07/09/a-kickstarter-guide-to-writing-es6/)
+* [ჩინური ვერსია (მადლობა barretlee)](http://www.barretlee.com/blog/2016/07/09/a-kickstarter-guide-to-writing-es6/)
 * [Portuguese Version (Thanks to alexmoreno)](https://github.com/alexmoreno/ES6-para-humanos)
+* [პორტუგალიური ვერსია (მადლობა alexmoreno)](https://github.com/alexmoreno/ES6-para-humanos)
 * [Russian Version (Thanks to etnolover)](https://github.com/etnolover/ES6-for-humans-translation)
+* [რუსული ვერსია (მადლობა etnolover)](https://github.com/etnolover/ES6-for-humans-translation)
 * [Korean Version (Thanks to scarfunk)](https://github.com/metagrover/ES6-for-humans/tree/korean-version)
+* [კორეული ვერსია (მადლობა scarfunk)](https://github.com/metagrover/ES6-for-humans/tree/korean-version)
 * [French Version (Thanks to tnga)](https://github.com/metagrover/ES6-for-humans/tree/french-version)
+* [ფრანფული ვერსია (მადლობა tnga)](https://github.com/metagrover/ES6-for-humans/tree/french-version)
 * [Spanish Version (Thanks to carletex)](https://github.com/metagrover/ES6-for-humans/tree/spanish-version)
+* [ესპანური ვერსია (მადლობა carletex)](https://github.com/metagrover/ES6-for-humans/tree/spanish-version)
 * [Japanese Version (Thanks to isdh)](https://github.com/metagrover/ES6-for-humans/tree/japanese-version)
+* [იაპონური ვერსია (მადლობა isdh)](https://github.com/metagrover/ES6-for-humans/tree/japanese-version)
 
 <br>
 
