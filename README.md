@@ -50,6 +50,7 @@
 <br>
 
 ### 1. let, const and block scoping
+### 1. let, const და ბლოკის ფარგლებში მოქცევა
 
 `let` allows you to create declarations which are bound to any block, called block scoping. Instead of using `var`, which provides function scope, it is recommended to use block scoped variables (`let` or `const`) in ES6.
 
@@ -90,6 +91,7 @@ A few things to keep in mind:
 <br>
 
 ### 2. Arrow Functions
+### 2. ისრისებური ფუნქციები
 
 Arrow functions are a short-hand notation for writing functions in ES6. The arrow function definition consists of a parameter list `( ... )`, followed by the `=>` marker and a function body. For single-argument functions, the parentheses may be omitted.
 
